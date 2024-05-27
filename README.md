@@ -64,3 +64,7 @@ Python 3.x
 
   
 - **fonts/:** Diretório com as fontes usadas no jogo.
+
+--------------------------------------------------------------
+## Autora / Author:
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-a-58238b1a1?) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Dudahh18) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_dudahh.18?igsh=MXZpdHhnamNmbjMx)
