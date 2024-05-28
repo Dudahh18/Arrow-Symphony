@@ -47,6 +47,7 @@ Mecânica de Jogo: As setas caem da parte superior da tela e o jogador precisa p
 
 ## Requisitos:
 Pygame (instale com pip install pygame)
+
 Python 3.x
 
 
